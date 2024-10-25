@@ -37,6 +37,7 @@ A sleek, single-page parallax website built with **HTML**, **CSS**, and **JavaSc
 
 ```plaintext
 parallax-website/
+├── img
 ├── index.html         # Main HTML structure
 ├── styles.css         # CSS styles for layout and animations
 └── main.js            # JavaScript for parallax functionality
