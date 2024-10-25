@@ -24,7 +24,7 @@ A sleek, single-page parallax website built with **HTML**, **CSS**, and **JavaSc
    ```
 2. Navigate to the project directory:
    ```bash
-   cd parallax-website
+   cd paralax-effect-site
    ```
 3. Open the `index.html` file in your browser to view the site.
 
