@@ -50,6 +50,5 @@ Feel free to fork the project and create pull requests. Any improvements to enha
 
 This project is open-source and available under the MIT License.
 
----
 
-Happy scrolling! 😊
+### Happy scrolling! 😊
