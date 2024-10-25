@@ -20,7 +20,7 @@ A sleek, single-page parallax website built with **HTML**, **CSS**, and **JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/parallax-website.git
+   git clone https://github.com/payton-ggg/paralax-effect-site.git
    ```
 2. Navigate to the project directory:
    ```bash
