@@ -53,6 +53,3 @@ This project is open-source and available under the MIT License.
 ---
 
 Happy scrolling! 😊
-```
-
-Добавьте скриншоты сайта, если хотите улучшить визуальное представление README.
